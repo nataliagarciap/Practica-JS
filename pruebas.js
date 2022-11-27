@@ -58,8 +58,6 @@ const rl = readline.createInterface({
     });
   }
 
-const options = (' 1 - show the students in the form of table /n 2 - show the number of students')
-
 async function studentRecord() {
     let userChoice; 
   
